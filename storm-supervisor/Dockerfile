@@ -1,5 +1,5 @@
-FROM wurstmeister/storm:0.9.4
-MAINTAINER Wurstmeister
+FROM shankar/storm:0.9.4
+MAINTAINER Shankar
 
 EXPOSE 6700
 EXPOSE 6701
